@@ -1,0 +1,24 @@
+{
+ "inference": {
+  "device": "cuda",
+  "n_windows": 4000,
+  "batch_size": 256,
+  "windows_per_s": 32017.520001075856,
+  "ms_per_window_batched": 0.031232899986207485,
+  "ms_single_window_median": 7.545750122517347
+ },
+ "features": {
+  "pcap": "D:\\VNAT_Datasettt\\vpn\\vpn_skype-chat_capture20.pcap",
+  "seconds_of_traffic": 1483,
+  "read_s": 5.890305300243199,
+  "features_s": 11.428094199858606,
+  "windows_s": 15.6062535000965,
+  "total_s": 32.924653000198305,
+  "s_per_20s_recording": 0.44402768712337565
+ },
+ "controller": {
+  "n_sessions": 200,
+  "evidence_ms": 13.404669938609004,
+  "fast_ms": 3.853585966862738
+ }
+}

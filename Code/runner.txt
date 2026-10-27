@@ -1,0 +1,1 @@
+python predict.py --pcap /path/to/your/file.pcap
