@@ -1,4 +1,4 @@
-# TRACE@VPN: Agentic VPN Traffic Identification
+# TRACE@VPN: Time-Series Representation for Agentic Classification and Evidence-Driven VPN Traffic Identification
 
 **TRACE@VPN** is a research framework for identifying encrypted VPN and non-VPN network traffic using time-series learning and evidence-driven decision-making.
 
